@@ -42,6 +42,3 @@ info:
   company.anme: www.xmut.cn
   build.artifactId: $project.artifactId$
   build.version: $project.version$
-
-
-
